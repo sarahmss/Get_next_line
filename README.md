@@ -1,5 +1,5 @@
 # get_next_line
-The second project in 42Cursus, with this function we are able to "read the text available on a file descriptor one line at a time until the EOF.
+The second project in 42Cursus, with this function we are able to read the text available on a file descriptor one line at a time until the EOF.
 
 Study Links
 1. everthing is a file: https://www.youtube.com/watch?v=dDwXnB6XeiA
